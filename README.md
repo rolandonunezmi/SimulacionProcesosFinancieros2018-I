@@ -6,6 +6,7 @@ Este curso esta dividido en 4 temas principales.
 
 `TEMA 1`:**Introducción a la Simulación**
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%.**
+
     1. Introducción a la simulación
     2. Metodología de un estudio de simulación
     3. Ejemplos simples de aplicación de simulación
