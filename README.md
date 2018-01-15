@@ -4,14 +4,14 @@ En este repositorio se encuentran todas las notas del curso simulación de proce
 
 Este curso esta dividido en 4 temas principales.
 
-`TEMA 1`:-Introducción a la Simulación
+`TEMA 1`:**Introducción a la Simulación**
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%**
-    1.1.	Introducción a la simulación
-    1.2.	Metodología de un estudio de simulación
-    1.3.	Ejemplos simples de aplicación de simulación
-    1.4.	Introducción a phyton
+    1.1. Introducción a la simulación
+    1.2. Metodología de un estudio de simulación
+    1.3. Ejemplos simples de aplicación de simulación
+    1.4. Introducción a phyton
 
-`TEMA 2`: Simulación Montecarlo
+`TEMA 2`: **Simulación Montecarlo**
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%**
   2.1	Método Montecarlo crudo
   2.2	Generación de  Números Pseudoaleatorios
@@ -36,14 +36,14 @@ Este curso esta dividido en 4 temas principales.
   2.8	Bootstrapping 
   2.9	Aplicaciones de la simulación.
 
-`TEMA 3`: Valuación de Opciones usando Simulación Monte Carlo
+`TEMA 3`: **Valuación de Opciones usando Simulación Monte Carlo**
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%**
   3.1	 Opciones Plan Vainilla: opción de compra y opción de venta europea
   3.2	 Opciones Asiáticas
   3.3	Opciones americanas
   3.4	Opciones de barrera
 
-`TEMA 4`: Administración del Riesgo y Valor del Riesgo
+`TEMA 4`: **Administración del Riesgo y Valor del Riesgo**
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%**
   4.1	 Tipos de riesgos financieros
   4.2	Valor del riesgo (VaR)
