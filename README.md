@@ -5,10 +5,10 @@ En este repositorio se encuentran todas las notas del curso simulación de proce
 Este curso esta dividido en 4 temas principales:
 `TEMA 1`:-Introducción a la Simulación
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%**
-  1.1	Introducción a la simulación
-  1.2	Metodología de un estudio de simulación
-  1.3	Ejemplos simples de aplicación de simulación
-  1.4	Introducción a phyton
+  1.1.	Introducción a la simulación
+  1.2.	Metodología de un estudio de simulación
+  1.3.	Ejemplos simples de aplicación de simulación
+  1.4.	Introducción a phyton
 
 `TEMA 2`: Simulación Montecarlo
 > Se aplicará una evaluación (**exámen 10%**) y se evaluará una presentación de **proyecto 15%**
