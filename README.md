@@ -14,7 +14,7 @@ Este curso esta dividido en 4 temas principales.
    5. Metodología de un estudio de simulación
    6. Ejemplos simples de aplicación de simulación
 
-`TEMA 2.`  ** Simulación Montecarlo **
+`TEMA 2.`  **Simulación Montecarlo**
 > Se aplicará una evaluación (**exámen 15%**) y se evaluará una presentación de **proyecto 15%.**
    1. Método Montecarlo crudo
    2. Generación de  Números Pseudoaleatorios
@@ -39,14 +39,14 @@ Este curso esta dividido en 4 temas principales.
    8. Bootstrapping
    9. Aplicaciones de la simulación.
 
-`TEMA 3.` ** Valuación de Opciones usando Simulación Monte Carlo **
+`TEMA 3.` **Valuación de Opciones usando Simulación Monte Carlo**
 > Se aplicará una evaluación (**exámen 15%**) y se evaluará una presentación de **proyecto 15%.**
 1. Opciones Plan Vainilla: opción de compra y opción de venta europea
 2. Opciones Asiáticas
 3. Opciones americanas
 4. Opciones de barrera
 
-`TEMA 4.` ** Administración del Riesgo y Valor del Riesgo**
+`TEMA 4.` **Administración del Riesgo y Valor del Riesgo**
 > Se aplicará una evaluación (**exámen 15%**) y se evaluará una presentación de **proyecto 15%.**
 1. Tipos de riesgos financieros
 2. Valor del riesgo (VaR)
